@@ -1,4 +1,4 @@
-from .MysqlConnector import MySqlConnector
+from .MysqlConnector import MysqlConnector
 
 
-__all__ = ["MySqlConnector"]
+__all__ = ["MysqlConnector"]

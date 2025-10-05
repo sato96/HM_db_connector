@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "HM_db_connector"
 version = "0.1.0"
-description = "Protocol-agnostic request library that unifies HTTP, CoAP, MQTT and future transports under a single API."
+description = "A lightweight MySQL database connector for microservices architecture"
 authors = ["sato96 <samtozzi.st@gmail.com>"]
 license = "MIT"
 readme = "README.md"
