@@ -1,6 +1,6 @@
 # HM DB Connector
 
-A lightweight MySQL database connector designed for microservices architecture of Home Manager ecosystme
+A lightweight MySQL database connector designed for microservices architecture of Home Manager ecosystem
 
 ## Features
 
